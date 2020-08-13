@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 10, 2020
+## Goals of 100 Days of Code
+
+- Complete Udemy course Typescript - The Complete Developers Guide
+
+- Complete Udemy course React - The Complete Guide (incl Hooks, React Router, Redux)
+
+- Complete Udemy course Docker Master: with Kubernetes +Swarm from a Docker Captain
+
+- Complete Udemy course Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+
+- Complete Udemy course GraphQL by Example
+
+- Complete Udemy course SQL & PostgreSQL for Beginners: Become an SQL Expert
+
+- Rebuild personal website/portfolio using new technologies and host on GKE
+
+- Build a personal blog for use with documenting 100 days of code
+
+- Initialize and template open source project DevPlayground
+
+## Day 0: August 10, 2020
 
 **Today's Progress**: Section 13, video 137 - 190 on Typescript - The Complete Developers Guide on Udemy
 
@@ -14,6 +34,8 @@ file but entire classes
 **Link to work:**
 https://github.com/bradleyknutson/myWebFramework
 
+## Day 1: August 11, 2020
+
 **Today's Progress**: Section 13, video 191 - 208 on Typescript - The Complete Developers Guide on Udemy
 
 **Thoughts:**
@@ -24,6 +46,19 @@ to move on to the Express + Typescript integration portion next!
 
 **Link to work:**
 https://github.com/bradleyknutson/myWebFramework
+
+## Day 2: August 12, 2020
+
+**Today's Progress**: Video 209 - 253 on Typescript - The Complete Developers Guide on Udemy. Completed Section 14-16 to build the full Express app.
+
+**Thoughts:**
+Built the entire Express app in one day! Learned the initial 'easy' way of integrating Typescript into a base Express app, which was pretty easy and added a bit
+of additional functionality. And then began the process of becoming more intimately familiar with prototype inheritance, decorators, and how Express runs at a lower level. Once
+that was done we worked on the rest of the project and used decorators to refactor everything into a much more Typescript specific build. It went well, but I have a lot more practice
+to do in order to get everything internalized. Next up is React+Redux with Typescript!
+
+**Link to work:**
+https://github.com/bradleyknutson/typescript-server-example
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
